@@ -4,4 +4,8 @@ let job = "Estudante"
 let old = 20
 let dream = "somewhere"
 
-console.log(nome + "\n" + mail + "\n" + job + "\n" + old)
+let mensagem 
+
+mensagem  = "Olá, " + nome + "! Somos aqui da agência de turismo Viagem dos Sonhos. Estamos te escrevendo este email, pois acabamos de confirmar as compras das passagens aéreas para "+ dream + ". Confirma pra gente alguns dados? A sua idade é "+ old + ", você é " + job + " e o seu email é "+ mail +"? Ficamos no aguardo. Muito obrigado e boa viagem! :D"
+
+console.log(mensagem)
