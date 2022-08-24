@@ -4,3 +4,4 @@ let job = "Estudante"
 let old = 20
 let dream = "somewhere"
 
+console.log(nome + "\n" + mail + "\n" + job + "\n" + old)
